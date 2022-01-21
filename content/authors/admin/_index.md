@@ -58,7 +58,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "3500305858@qq.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -70,6 +70,5 @@ Ismael Aboubakar holds a BS in Petroleum Engineering from Northeast Petroleum Un
 Currently, Ismael Aboubakar is working for China National Petroleum Corporation International Chad (CNPCIC).
 He is happy with his current job, but also willing to take new challenges if the opportunity matches his career path.
 While he is not working, he enjoys Playing football, likes travelling, writing blogs and learning languages.
-Feel free to connect Ismael Aboubakar via Github (https://github.com/aboubakarismael16) or drop him an email (aboubakarismael16@gmail.com).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
