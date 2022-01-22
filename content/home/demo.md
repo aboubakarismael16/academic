@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Ismael Aboubakar"
+title = ""
 subtitle = ""
 
 [design]
@@ -29,7 +29,7 @@ subtitle = ""
   gradient_end = "ForestGreen"
   
   # Background image. Name of image in `static/media/`.
-  image = "background.jpg"  
+  image = "background.svg"  
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   mage_size = "actual"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -40,7 +40,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["300px", "0", "300px", "0"]
+  padding = ["200px", "0", "200px", "0"]
 
 [advanced]
  # Custom CSS. 
