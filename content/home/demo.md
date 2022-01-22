@@ -30,8 +30,8 @@ subtitle = ""
   
   # Background image. Name of image in `static/media/`.
   image = "background.jpg"  
-  image_darken = 0.8  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  mage_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  mage_size = "actual"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
@@ -50,5 +50,5 @@ subtitle = ""
  css_class = ""
 +++
 
-## 👋 每天刷10题
-“早上把一天的任务全部写出来，把简单的任务放在清单的最前面，按清单上的顺序处理工作，每完成一个任务就在该任务后打个钩。”
+## 👋 slog
+“天下没有免费的午餐 。”

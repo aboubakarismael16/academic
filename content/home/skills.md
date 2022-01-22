@@ -51,7 +51,7 @@ feature:
 - icon: docker
   icon_pack: custom
   name: Docker
-  description: 80%
+  description: 70%
 - icon: mysql
   icon_pack: custom
   name: MySQL
@@ -59,11 +59,11 @@ feature:
 - icon: rabbitmq
   icon_pack: custom
   name: RabbitMQ
-  description: 80%
+  description: 60%
 - icon: redis
   icon_pack: custom
   name: Redis
-  description: 80%
+  description: 30%
 - icon: git
   icon_pack: custom
   name: Git
@@ -71,13 +71,10 @@ feature:
 - icon: h5
   icon_pack: custom
   name: HTML5
-  description: 80%
-- icon: css3
+  description: 40%
+- icon: kubernetes-icon
   icon_pack: custom
-  name: CSS3
-  description: 80%
-- icon: ps
-  icon_pack: custom
-  name: Adobe Photoshop
-  description: 80%
+  name: Kubernetes
+  description: 50%
+
 ---

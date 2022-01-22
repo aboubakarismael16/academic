@@ -11,10 +11,10 @@ role: DevOps Engineer
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: NEPU
-  url: https://www.nepu.edu/
+  url: http://www.nepu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -65,7 +65,7 @@ highlight_name: true
 ---
 
 Ismael Aboubakar is a student with a passion for open source, Deep Learning. He has a solid experience in the golang and data structure.
-He also has strong interests in various tech stuff such as Artificial Intelligence, Cryptocurrencies, Big Startups.
+He also has strong interests in various tech stuff such as Cloud Native, Cryptocurrencies, Big Startups.
 Ismael Aboubakar holds a BS in Petroleum Engineering from Northeast Petroleum University in China(Daqing).
 Currently, Ismael Aboubakar is working for China National Petroleum Corporation International Chad (CNPCIC).
 He is happy with his current job, but also willing to take new challenges if the opportunity matches his career path.
