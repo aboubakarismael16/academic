@@ -10,7 +10,7 @@ role: DevOps Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: NEPU
+- name: 东北石油大学
   url: http://www.nepu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -20,13 +20,12 @@ organizations:
 interests:
 - Cloud Native
 - Computational Linguistics
-- micro-services
 
 # Education to show in About widget
 education:
   courses:
   - course: Bachelor in Petroleum engineering
-    institution: Northeast Petroleum University (Nepu)
+    institution: 东北石油大学 (Northeast Petroleum University) 
     year: 2023
 
 # Social/Academic Networking
