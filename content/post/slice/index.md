@@ -1,7 +1,6 @@
 ---
 title: Slice in Golang
-subtitle: Arrays, after declared of some size, cannot be resized, but  slices  can be resized. Slices are reference-types while arrays are value-type.
-
+subtitle: slice, golang
 summary: Arrays, after declared of some size, cannot be resized, but  slices  can be resized. Slices are reference-types while arrays are value-type.
 # Link this post with a project
 projects: []
@@ -23,7 +22,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: ''
+  caption: '18.png'
   focal_point: ""
   placement: 2
   preview_only: false

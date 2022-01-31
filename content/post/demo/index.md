@@ -1,8 +1,7 @@
 ---
 
 title: Map in Golang
-subtitle: Golang's map uses hash table as the underling implemention. There can be multiple hash table nodes in a hash table, that is buckets, and each bucket is saved one or a set of key value pairs in the map.
-
+subtitle: map,golang
 summary: Golang's map uses hash table as the underling implemention. There can be multiple hash table nodes in a hash table, that is buckets, and each bucket is saved one or a set of key value pairs in the map.
 
 # Link this post with a project
@@ -35,7 +34,6 @@ authors:
 
 tags:
 - golang
-
 
 categories:
 - Demo
