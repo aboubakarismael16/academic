@@ -29,8 +29,8 @@ subtitle = ""
   gradient_end = "ForestGreen"
   
   # Background image. Name of image in `static/media/`.
-  image = "background.jpg"  
-  image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image = "background.svg"  
+  image_darken = 0.7 # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   mage_size = "actual"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
@@ -50,5 +50,5 @@ subtitle = ""
  css_class = ""
 +++
 
-## 👋 slog
+ # 👋 slog
 “天下没有免费的午餐 。”
