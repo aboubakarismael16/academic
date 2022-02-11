@@ -3,7 +3,6 @@ title: Golang micro-services
 summary: use go-micro to build micro-services.
 tags:
 - Cloud Native
-- Golang
   date: "2022-02-07T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
