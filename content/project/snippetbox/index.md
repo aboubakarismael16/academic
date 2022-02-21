@@ -8,10 +8,6 @@ tags:
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-caption: Photo by rawpixel on Unsplash
-focal_point: Smart
-
 links:
 - icon: twitter
   icon_pack: fab
@@ -23,3 +19,5 @@ links:
   url_video: ""
   
 ---
+
+## snippetbox
