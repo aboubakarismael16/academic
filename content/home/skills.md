@@ -75,6 +75,6 @@ feature:
 - icon: kubernetes-icon
   icon_pack: custom
   name: Kubernetes
-  description: 50%
+  description: 60%
 
 ---
