@@ -70,4 +70,4 @@ Currently, Ismael Aboubakar is working for China National Petroleum Corporation 
 He is happy with his current job, but also willing to take new challenges if the opportunity matches his career path.
 While he is not working, he enjoys Playing football, likes travelling, writing blogs and learning languages.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
