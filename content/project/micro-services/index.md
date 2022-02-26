@@ -7,6 +7,15 @@ tags:
 
 date: "2022-02-20T00:00:00Z"
 
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/georgecushen
+  url_code: ""
+  url_pdf: ""
+  url_slides: ""
+  url_video: ""
 ---
 
 ## 微服务深度应用 : 电商项目贯穿，逐步构建技术体系
