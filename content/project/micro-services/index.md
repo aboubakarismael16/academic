@@ -7,6 +7,10 @@ tags:
 
 date: "2022-02-20T00:00:00Z"
 
+image:
+  caption: nice
+  focal_point: Smart
+
 links:
 - icon: github
   icon_pack: fab
