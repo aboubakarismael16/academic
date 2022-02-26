@@ -8,10 +8,10 @@ tags:
 date: "2022-02-20T00:00:00Z"
 
 links:
-- icon: twitter
+- icon: github
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  name: Star🌟
+  url: https://github.com/aboubakarismael16
   url_code: ""
   url_pdf: ""
   url_slides: ""
