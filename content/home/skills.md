@@ -47,7 +47,7 @@ feature:
 - icon: golang
   icon_pack: custom
   name: Golang
-  description: 80%
+  #description: 80%
 - icon: docker
   icon_pack: custom
   name: Docker
