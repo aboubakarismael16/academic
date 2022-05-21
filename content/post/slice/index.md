@@ -494,7 +494,6 @@ In this method, the slicecopy method copies the elements in the source slice val
 ![slice09](slice09.jpg)
 
 
-
 Here an example :
 
 ```go
@@ -509,7 +508,6 @@ func main() {
 ```go
 n = 4 ,slice = [10 20 30 40 0 0] ,len = 6 , cap = 6
 ```
-
 
 
 There is also a copy method. The principe of this method is similar to the slicecopy method, so I won't repeat it, you can look for  the comments  written in the code.
