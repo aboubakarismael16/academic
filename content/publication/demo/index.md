@@ -1,5 +1,5 @@
 ---
-title: "an example for presentation"
+title: "K8s and cloud Native"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -26,10 +26,10 @@ publishDate: "2022-04-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Cloud Native Conference*
+publication_short: In *CNF*
 
-abstract: Talk about kubernetes and cloud native in africa.
+abstract: Talk about kubernetes and cloud native in Africa.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
