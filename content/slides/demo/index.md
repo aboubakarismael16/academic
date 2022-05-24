@@ -15,14 +15,14 @@ slides:
 
 # Create slides in Markdown with Wowchemy
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
+[Wowchemy](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/managing-content/#create-slides)
 
 ---
 
-## Hello
+## Hello Everyone 
 
-- Teme : Presentation
-- author : Ismael
+- Theme : Presentation
+- author : Ismael16
 - role : DevOps Engineer
 - contact : 3500305858@qq.com
 
@@ -53,14 +53,15 @@ slides:
 
 ## Code Highlighting
 
-Inline code: `variable`
+multipass: `cluster`
 
-Code block:
-```python
-porridge = "blueberry"
-if porridge == "blueberry":
-    print("Eating...")
+```shell
+➜  ~ git:(main) ✗ multipass list
+Name                    State             IPv4             Image
+master                  Stopped           --               Ubuntu 20.04 LTS
+node1                   Stopped           --               Ubuntu 20.04 LTS
 ```
+
 
 ---
 
