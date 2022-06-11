@@ -7,6 +7,9 @@ tags:
 
 date: "2022-02-20T00:00:00Z"
 
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
 image:
   caption: nice
   focal_point: Smart
@@ -16,10 +19,10 @@ links:
   icon_pack: fab
   name: Star🌟
   url: https://github.com/aboubakarismael16
-  url_code: ""
-  url_pdf: ""
-  url_slides: ""
-  url_video: ""
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 ---
 
 ## 微服务深度应用 : 电商项目贯穿，逐步构建技术体系
