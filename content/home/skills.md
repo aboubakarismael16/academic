@@ -68,9 +68,9 @@ feature:
   icon_pack: custom
   name: Git
   #description: 80%
-- icon: h5
-  icon_pack: custom
-  name: HTML5
+#- icon: h5
+#  icon_pack: custom
+#  name: HTML5
   #description: 40%
 - icon: kubernetes-icon
   icon_pack: custom
